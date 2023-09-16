@@ -2,8 +2,8 @@
 
 Primeiro projeto em go explorando coisas basicas como:
 
--iterações
--input/output
--conversoes de tipos
--requisições http
--uso de "time"
+-iterações \n
+-input/output \n
+-conversoes de tipos \n
+-requisições http \n
+-uso de "time" \n
