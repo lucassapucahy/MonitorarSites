@@ -2,7 +2,7 @@
 
 Primeiro projeto em go explorando coisas basicas como:
 
--iterações \n
+-iterações <br>
 -input/output \n
 -conversoes de tipos \n
 -requisições http \n
