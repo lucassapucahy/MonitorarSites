@@ -1,6 +1,6 @@
 # MonitorarSites
 
-Primeiro projeto em go explorando coisas basicas como:
+Primeiro projeto em go explorando coisas basicas.
 
 Mostra um menu para o usuario onde:
 
